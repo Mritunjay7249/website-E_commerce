@@ -1,0 +1,5 @@
+{
+  "name": "ShopSphere - Modern E-Commerce Platform",
+  "description": "A complete, attractive, and modern e-commerce website that is fully local. It features multiple pages including Home, Products, Product Details, Cart, Checkout, and Order Summary. All data is stored in localStorage, making it a fully functional frontend-only application.",
+  "requestFramePermissions": []
+}
